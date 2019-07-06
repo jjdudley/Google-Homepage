@@ -1,1 +1,1 @@
-# google-homepage
+Recreated the Google homepage for TheOdinProject using html and css.
